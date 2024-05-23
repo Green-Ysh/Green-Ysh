@@ -6,6 +6,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+
+<p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&theme=buefy&show_icons=true" />
 
@@ -38,7 +40,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-
+</p>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
