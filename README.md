@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&theme=buefy&show_icons=true" />
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Mansoura Unversity.
@@ -39,11 +39,6 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Ysh&theme=buefy&layout=compact" />
-</a>
-
 </p>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
