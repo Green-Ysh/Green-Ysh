@@ -10,7 +10,7 @@ I'm a software developer passionate about writing code, solving problems, and bu
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&theme=buefy&show_icons=true" />
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&theme=buefy&show_icons=true" />
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
