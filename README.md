@@ -6,9 +6,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Mansoura Unversity.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: <p align="center">
-<a href="mailto:linux.ysh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-linux.ysh@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+- 📫 How to reach me:<a href="mailto:linux.ysh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-linux.ysh@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
