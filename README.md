@@ -2,12 +2,11 @@
 <p align="left">
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 I'm a software developer passionate about writing code, solving problems, and building software.
-  
+
 - 🔭 I’m currently studying Software Engineering at Jilin University.
 - 📚 I’m learning backend development using Node.js, Nest.js, and Java.
 - 👯 I’m currently working in Tianjin.
 - 📫 How to reach me:  <a href="mailto:linux.ysh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-linux.ysh@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -40,5 +39,3 @@ I'm a software developer passionate about writing code, solving problems, and bu
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
