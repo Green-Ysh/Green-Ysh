@@ -48,5 +48,5 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:linux.ysh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:linux.ysh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-linux.ysh@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
