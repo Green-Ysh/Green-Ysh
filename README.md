@@ -3,8 +3,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 I'm a software developer passionate about writing code, solving problems, and building software.
 
-- 🔭 I’m currently studying Software Engineering at Jilin University.
-- 📚 I’m learning backend development using Node.js, Nest.js, and Java.
+- 🔭 I graduated from Jilin University with a degree in Software Engineerin.
 - 👯 I’m currently working in Tianjin.
 - 📫 How to reach 👉 <a href="mailto:linux.ysh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-linux.ysh@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <br/>
@@ -15,8 +14,7 @@ I'm a software developer passionate about writing code, solving problems, and bu
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=F80000)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=csharp&logoColor=512BD4)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC
 - 🌐 &nbsp;
   ![H5](https://img.shields.io/badge/-H5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
