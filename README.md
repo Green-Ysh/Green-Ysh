@@ -15,7 +15,7 @@ I'm a software developer passionate about writing code, solving problems, and bu
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=F80000)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9C)
-- 🌐 &nbsp
+- 🌐 &nbsp;
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
