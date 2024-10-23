@@ -21,7 +21,7 @@ I'm a software developer passionate about writing code, solving problems, and bu
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 - ⚙️ &nbsp;
