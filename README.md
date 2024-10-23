@@ -8,6 +8,9 @@
  <a href="mailto:linux.ysh@gmail.com">
    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
  </a>
+ <a href="https://x.com/_YangSheng_">
+   <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter" />
+ </a>
 </div>
 
 <br>
@@ -17,6 +20,7 @@
 - 🎓 Graduated from Jilin University with degree in Software Engineering
 - 🌱 Currently working in Tianjin 
 - ✨ Building open source projects
+- 🐦 Follow me on <a href="https://x.com/_YangSheng_">Twitter</a>
 
 <br>
 
