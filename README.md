@@ -12,7 +12,6 @@ I'm a software developer passionate about writing code, solving problems, and bu
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&theme=buefy&show_icons=true" />
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=F80000)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9C)
 - 🌐 &nbsp;
@@ -28,8 +27,4 @@ I'm a software developer passionate about writing code, solving problems, and bu
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=intellijidea&logoColor=ffffff)
-  ![DG](https://img.shields.io/badge/-DG-333333?style=flat&logo=datagrip&logoColor=ffffff)
 </p>
