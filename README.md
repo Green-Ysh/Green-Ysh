@@ -1,50 +1,47 @@
-# 👋 Hi there
+<h1 align="center">Hi there! 👋 I'm YangSheng</h1>
 
-## 👨‍💻 About Me  
+<p align="center">
+ I'm a software developer passionate about writing code, solving problems, and building software.
+</p>
 
-<img align="right" height="200" src="https://your-avatar-url.gif"/>
-
-I'm a software developer passionate about writing code, solving problems, and building software.
+<div align="center">
+ <a href="mailto:linux.ysh@gmail.com">
+   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+ </a>
+</div>
 
 <br>
 
-> 🎓 I graduated from Jilin University with a degree in Software Engineering  
-> 🏢 I'm currently working in Tianjin  
-> 📫 Reach me at: <a href="mailto:linux.ysh@gmail.com"><code>linux.ysh@gmail.com</code></a>
+<h3 align="left">About Me</h3>
 
-## 🛠️ Tech Stack
+- 🎓 Graduated from Jilin University with degree in Software Engineering
+- 🌱 Currently working in Tianjin 
+- ✨ Building open source projects
 
-<details open>
-  <summary><b>💻 Programming Languages</b></summary>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Python-223?style=for-the-badge&logo=python&labelColor=223&color=3776AB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-223?style=for-the-badge&logo=java&labelColor=223&color=007396"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-223?style=for-the-badge&logo=c&labelColor=223&color=00599C"/></a>
-</details>
+<br>
 
-<details open>
-  <summary><b>🌐 Frontend & Backend</b></summary>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-223?style=for-the-badge&logo=vue.js&labelColor=223&color=4FC08D"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-223?style=for-the-badge&logo=node.js&labelColor=223&color=339933"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-223?style=for-the-badge&logo=react&labelColor=223&color=61DAFB"/></a>
-</details>
+<h3 align="left">Languages and Tools</h3>
 
-<details open>
-  <summary><b>🗄️ Database & DevOps</b></summary>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-223?style=for-the-badge&logo=mysql&labelColor=223&color=4479A1"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Oracle-223?style=for-the-badge&logo=oracle&labelColor=223&color=F80000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redis-223?style=for-the-badge&logo=redis&labelColor=223&color=DC382D"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-223?style=for-the-badge&logo=docker&labelColor=223&color=2496ED"/></a>
-</details>
+<p align="left">
+ <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black" />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
 
-<details open>
-  <summary><b>🔧 Tools & IDE</b></summary>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Git-223?style=for-the-badge&logo=git&labelColor=223&color=F05032"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-223?style=for-the-badge&logo=github&labelColor=223&color=181717"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-223?style=for-the-badge&logo=visual-studio-code&labelColor=223&color=007ACC"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/IntelliJ-223?style=for-the-badge&logo=intellij-idea&labelColor=223&color=000000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/DataGrip-223?style=for-the-badge&logo=datagrip&labelColor=223&color=000000"/></a>
-</details>
+<p align="left">
+ <img src="https://img.shields.io/badge/IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
+ <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+<br>
+
+<div align="center">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Ysh&theme=vue&hide_border=true"/>
+</div>
