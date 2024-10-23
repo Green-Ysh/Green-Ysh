@@ -1,65 +1,40 @@
-## Hi there 👋
+# 👋 Hi there
 
-<div align="center">
-  <img width="200" src="你的头像图片URL" /> 
-</div>
-
-### 👨‍💻 About Me
-
+## 👨‍💻 About Me
 I'm a software developer passionate about writing code, solving problems, and building software.
 
 - 🎓 I graduated from Jilin University with a degree in Software Engineering
 - 🏢 I'm currently working in Tianjin
-- 📫 How to reach me: <a href="mailto:linux.ysh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-linux.ysh@gmail.com-blue?style=flat-square&logo=gmail"></a>
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-linux.ysh@gmail.com-blue?style=flat&logo=gmail)](mailto:linux.ysh@gmail.com)
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-</details>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c&logoColor=white)
 
-<details open>
-<summary><b>🌐 Frontend & Backend</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-</details>
+### 🌐 Frontend & Backend
+![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933.svg?&style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=react&logoColor=black)
 
-<details open>
-<summary><b>🛢 Database & DevOps</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-</details>
+### 🗄️ Database & DevOps
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 
-<details open>
-<summary><b>⚙️ Tools & IDE</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
-</p>
-</details>
+### 🔧 Tools & IDE
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)
+![IDEA](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DATAGRIP-000000.svg?&style=flat&logo=datagrip&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Ysh&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Green-Ysh&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Ysh&theme=transparent"/>
 </div>
